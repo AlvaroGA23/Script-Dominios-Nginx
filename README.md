@@ -19,8 +19,8 @@ Antes de ejecutar los scripts, asegúrate de cumplir con los siguientes requisit
 sudo apt update && sudo apt install build-essential curl -y
 ```
 2. Ambos scripts requieren permisos de superusuario `sudo` para modificar archivos en los directorios `/etc/nginx/` y `/var/www`. Dentro del HTML escribiremos la palabra REEMPLAZO donde queramos que aparezca el nombre del dominio. El script usará el comando sed para cambiar esa palabra por el nombre real de cada dominio automáticamente.
-3. 
-4. En el mismo directorio donde se ubiquen los scripts, deben estar los archivos `dominios.csv`, `IP.csv` y `web.html` para su correcto funcionamiento.
+
+3. En el mismo directorio donde se ubiquen los scripts, deben estar los archivos `dominios.csv`, `IP.csv` y `web.html` para su correcto funcionamiento.
 
 ---
 
