@@ -57,3 +57,5 @@ Los scripts están diseñados para que, si se ejecutan dos veces, no creen confl
 -----
 
 **Este proyecto ha sido desarrollado por un estudiante de 1ºASIR que está introduciéndose en el mundo del scripting, gracias por leer :)**
+
+.
