@@ -4,7 +4,7 @@ A menudo, el Administrador de Sistemas recibe solicitudes para desplegar webs te
 
 En este script se automatiza la creación de estructuras de directorios, así como la generación del contenido web, la configuracion del Virtual Hosts, su activación y borrado completo del dominio cuando ya no es necesario.
 
-Es importante tener en cuenta que este script está diseñado principalmente para un entorno de laboratorio, simulando como lo haría en un entorno de trabajo real, pero no es adecuado para usar en un entorno profesional real. Esto debido a diferencias en los puertos, directorios y en la seguridad.
+Es importante tener en cuenta que este script está diseñado principalmente para un HomeLab, simulando como lo haría en un lugar de trabajo real, pero no es adecuado para usar en un entorno profesional real. Esto debido a diferencias en los puertos, directorios y en la seguridad.
 
 ---
 
